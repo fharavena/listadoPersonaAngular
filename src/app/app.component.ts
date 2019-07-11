@@ -17,5 +17,4 @@ export class AppComponent implements OnInit{
       ngOnInit(): void {
         this.personas = this.personasServices.personas;
       }
-
 }
