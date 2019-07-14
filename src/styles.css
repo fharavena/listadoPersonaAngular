@@ -77,6 +77,10 @@ html {
     padding-bottom: 6px;
     border-width: 0;
   }
+
+  .centrado{
+    text-align: center;
+  }
   
   input[type="text"] {
     text-align: center;
